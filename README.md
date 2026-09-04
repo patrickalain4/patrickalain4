@@ -8,7 +8,7 @@ Je travaille sur des projets **Web, Mobile et Desktop**, de la conception à la 
 
 <p align="center">
   <a href="https://gullit-portfolio.vercel.app/assets/images/Curriculum-vitae-de-Gullit-dark.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Télécharger%20mon%20CV-2ea44f?style=for-the-badge" alt="Télécharger mon CV">
+     <img src="https://img.shields.io/badge/📄%20Télécharger%20mon%20CV-606060?style=for-the-badge" alt="Télécharger mon CV">
   </a>
 </p>
 
