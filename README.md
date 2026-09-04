@@ -1,4 +1,6 @@
-# 👋 Bonjour, je suis Gullit Patrick-Alain MISAOTRASOA
+# 👋 Bonjour, je suis Gullit Patrick-Alain MISAOTRASOA <a href="./Curriculum-vitae-de-Gullit-dark.pdf" download>
+    <img src="https://img.shields.io/badge/📄%20Télécharger%20mon%20CV-Download-blue?style=for-the-badge" alt="Télécharger mon CV">
+  </a>
 
 ### 💻 Développeur Full-Stack
 
