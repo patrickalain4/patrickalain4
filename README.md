@@ -6,6 +6,12 @@ Développeur Full-Stack avec une expertise dans la **conception, le développeme
 
 Je travaille sur des projets **Web, Mobile et Desktop**, de la conception à la mise en production, avec une expérience en développement d'applications, CMS, CRM et gestion de projets.
 
+<p align="center">
+  <a href="./CV-Gullit-Patrick-Alain.pdf">
+    📄 <strong>Télécharger mon CV</strong>
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Technologies & compétences
