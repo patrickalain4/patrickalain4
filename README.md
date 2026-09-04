@@ -1,7 +1,7 @@
 <h1>
   👋 Bonjour, je suis Gullit Patrick-Alain MISAOTRASOA
    <a href="https://gullit-portfolio.vercel.app/assets/images/Curriculum-vitae-de-Gullit-dark.pdf" target="_blank" align="right">
-     <img src="https://img.shields.io/badge/📄%20Télécharger%20mon%20CV-606060?style=for-the-badge" alt="Télécharger CV">
+     <img src="https://img.shields.io/badge/📄%20Télécharger%20CV-606060?style=for-the-badge" alt="Télécharger CV">
   </a>
 </h1> j'aiem aligne totalement a droit le bouton
 
