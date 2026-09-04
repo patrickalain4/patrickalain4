@@ -8,20 +8,6 @@ Je travaille sur des projets **Web, Mobile et Desktop**, de la conception à la 
 
 ---
 
-## 🚀 À propos de moi
-
-- 💼 **Chef de projet & Développeur Full-Stack** chez **STEP UP AGENCE**
-- 🌐 Spécialisé dans le développement d'applications **Web, Mobile et Desktop**
-- ⚙️ Expérience en **Laravel, Symfony, CodeIgniter et PHP**
-- 📱 Développement mobile avec **Flutter, Ionic et Android**
-- 🧩 Développement et intégration de sites avec **WordPress**
-- 🗄️ Conception et gestion de bases de données **SQL**
-- 🐳 Conteneurisation avec **Docker**
-- 🎨 Conception d'interfaces avec **Figma**
-- 🔧 Gestion de versions avec **Git & GitHub**
-
----
-
 ## 🛠️ Technologies & compétences
 
 ### 💻 Développement Web
