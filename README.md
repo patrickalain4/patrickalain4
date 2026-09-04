@@ -1,16 +1,33 @@
-## Hi there 👋
+GULLIT Patrick-Alain
+Développeur Web
 
-<!--
-**patrickalain4/patrickalain4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+À propos de moi
+───────────────
+Développeur Web spécialisé dans la conception et le développement
+d'applications web, de sites vitrines et de CMS.
 
-Here are some ideas to get you started:
+💻 Backend
+PHP • Laravel • Symfony • CodeIgniter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Frontend
+JavaScript • TypeScript • HTML • CSS • Bootstrap • Bulma
+
+🧩 CMS
+WordPress • Elementor
+
+⚙️ Outils
+Git • Docker • MySQL • Trello • Asana
+
+📱 Mobile
+Flutter • Android
+
+🎓 Formation
+Master II – SIGD
+Licence – DA2I
+
+📜 Certifications
+Laravel Back-End
+Docker
+
+🌐 Portfolio
+gullit-portfolio.vercel.app
