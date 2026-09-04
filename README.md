@@ -187,14 +187,6 @@ Fianarantsoa
 
 ---
 
-## 📊 GitHub Stats
-
-![Gullit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrickalain4&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickalain4&layout=compact)
-
----
-
 ### 💡 « Concevoir, développer, améliorer. »
 
 Merci de visiter mon profil GitHub ! 🚀
