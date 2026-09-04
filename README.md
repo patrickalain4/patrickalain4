@@ -7,7 +7,7 @@ Développeur Full-Stack avec une expertise dans la **conception, le développeme
 Je travaille sur des projets **Web, Mobile et Desktop**, de la conception à la mise en production, avec une expérience en développement d'applications, CMS, CRM et gestion de projets.
 
 <p align="center">
-  <a href="https://gullit-portfolio.vercel.app/assets/images/Curriculum-vitae-de-Gullit-dark.pdf" download>
+  <a href="https://gullit-portfolio.vercel.app/assets/images/Curriculum-vitae-de-Gullit-dark.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Télécharger%20mon%20CV-Download-blue?style=for-the-badge" alt="Télécharger mon CV">
   </a>
 </p>
