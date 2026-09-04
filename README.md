@@ -1,4 +1,10 @@
 # 👋 Bonjour, je suis Gullit Patrick-Alain MISAOTRASOA
+<h1>
+  👋 Bonjour, je suis Gullit Patrick-Alain MISAOTRASOA
+  <a href="https://ton-site.com/cv.pdf" download>
+    <img src="https://img.shields.io/badge/📄%20Télécharger%20mon%20CV-555555?style=for-the-badge" alt="Télécharger mon CV">
+  </a>
+</h1>
 
 ### 💻 Développeur Full-Stack
 
